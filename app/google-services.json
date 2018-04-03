@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "942813530653",
+    "firebase_url": "https://ridwan1202154212modul6.firebaseio.com",
+    "project_id": "ridwan1202154212modul6",
+    "storage_bucket": "ridwan1202154212modul6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:942813530653:android:533b35b23686bdb0",
+        "android_client_info": {
+          "package_name": "com.example.asusx453sa.ridwan_1202154212_modul6"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "942813530653-dvp7sg2sbvtvo8em73n2itbigq7gcta0.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.asusx453sa.ridwan_1202154212_modul6",
+            "certificate_hash": "49203082cc523690dbdce5898bc26257776b2c7a"
+          }
+        },
+        {
+          "client_id": "942813530653-f7d49rinsmggmn46jtk1qnvqk6f5e41o.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDYDwBAvmIfHiRtgWnH4t_IplZBJP4zVw0"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "942813530653-f7d49rinsmggmn46jtk1qnvqk6f5e41o.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
